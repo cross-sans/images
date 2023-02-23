@@ -1,4 +1,6 @@
-engine={
-  version:"0.0.1",
-  newStuff:"oficial reliesse"
+{
+  "engine": {
+    "version": "0.0.1",
+    "newStuff": "official release"
+  }
 }
